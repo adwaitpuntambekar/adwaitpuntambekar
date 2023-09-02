@@ -1,4 +1,4 @@
-### Hi there, this is Adwait, a Computer Science Sophomore 👋
+### Hi there, this is Adwait, a Computer Science Sophomore. I am a Front-End Developer and a Data Science Enthusiast 👋
 
 <!--
 **adwaitpuntambekar/adwaitpuntambekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
